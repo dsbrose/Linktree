@@ -100,6 +100,10 @@ img.icon{
     filter: invert(100%);
 }
 
-.roundBorder {
+#borderInsta {
     border-radius: 40%;
+}
+
+#borderLinkedin {
+  border-radius: 60%
 }
